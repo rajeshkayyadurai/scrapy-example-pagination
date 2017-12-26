@@ -1,0 +1,3 @@
+AmazonDSLRCameras = [
+    'https://www.amazon.in/s/ref=lp_1389177031_nr_p_89_0?fst=as%3Aoff&rh=n%3A976419031%2Cn%3A%21976420031%2Cn%3A1388977031%2Cn%3A1389175031%2Cn%3A1389177031%2Cp_89%3ACanon&bbn=1389177031&ie=UTF8&qid=1514104919&rnid=3837712031',
+]
