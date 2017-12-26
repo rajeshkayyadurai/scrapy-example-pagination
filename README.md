@@ -1,6 +1,6 @@
 # Web/Data Scraping - Pagination:
 
-This framework specializes on scraping the data from the website where pagination is incorporated.
+This framework specializes in scraping the data from websites where pagination is incorporated.
 
 ## Framework contains the following components:
 
